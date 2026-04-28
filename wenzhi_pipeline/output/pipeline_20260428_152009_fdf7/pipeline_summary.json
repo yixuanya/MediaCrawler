@@ -1,0 +1,137 @@
+{
+  "pipeline_run_id": "pipeline_20260428_152009_fdf7",
+  "keyword": "女老板 失眠",
+  "platforms": [
+    "douyin"
+  ],
+  "started_at": "2026-04-28T15:20:09.134479+08:00",
+  "finished_at": "2026-04-28T15:20:09.151987+08:00",
+  "status": "partial",
+  "platform_results": {
+    "douyin": {
+      "collector_status": "partial",
+      "scorer_status": "partial",
+      "normalized_path": "/Users/admin/MediaCrawler/wenzhi_collectors/output/normalized/douyin_keyword_search_20260428_152009_ffb6/douyin_normalized_女老板_失眠_2026-04-28.json",
+      "scored_path": "/Users/admin/MediaCrawler/wenzhi_scorer/output/scored/douyin_keyword_search_20260428_152009_ffb6/douyin_scored_女老板_失眠_2026-04-28.json",
+      "items_count": 5,
+      "levels_count": {
+        "S": 0,
+        "A": 0,
+        "B": 0,
+        "C候选": 5,
+        "淘汰": 0
+      },
+      "top_items": [
+        {
+          "platform": "douyin",
+          "content_id": "7518278831205567779",
+          "title": "没有在深夜痛哭过的人不足以谈人生，老板娘的真诚分享#非洲#失眠#焦虑#治愈",
+          "content_url": "https://www.douyin.com/video/7518278831205567779",
+          "author_name": "海南老板娘",
+          "weighted_engagement": 2132.0,
+          "viral_ratio": null,
+          "low_follower_high_viral_level": "C候选",
+          "total_boom_score": 32,
+          "recommended_action": "需要后续补作者粉丝数或用账号主页近10条平均互动判断"
+        },
+        {
+          "platform": "douyin",
+          "content_id": "7551001082147638578",
+          "title": "在平顶山，你会失眠吗？这位女老板失眠十几年，竟把他们带回家 #平顶山 #失眠 #养生 #个人成长 #氧疗",
+          "content_url": "https://www.douyin.com/video/7551001082147638578",
+          "author_name": "最鹰城表哥",
+          "weighted_engagement": 1688.0,
+          "viral_ratio": null,
+          "low_follower_high_viral_level": "C候选",
+          "total_boom_score": 29,
+          "recommended_action": "需要后续补作者粉丝数或用账号主页近10条平均互动判断"
+        },
+        {
+          "platform": "douyin",
+          "content_id": "7167555680444878117",
+          "title": "开工厂的老板，夜里根本睡不着！#制造业 #工厂小老板 #实体厂家 #工厂 #创业",
+          "content_url": "https://www.douyin.com/video/7167555680444878117",
+          "author_name": "道和车间降温 | 官方号",
+          "weighted_engagement": 85369.0,
+          "viral_ratio": null,
+          "low_follower_high_viral_level": "C候选",
+          "total_boom_score": 27,
+          "recommended_action": "需要后续补作者粉丝数或用账号主页近10条平均互动判断"
+        }
+      ]
+    }
+  },
+  "total_items": 5,
+  "total_levels_count": {
+    "S": 0,
+    "A": 0,
+    "B": 0,
+    "C候选": 5,
+    "淘汰": 0
+  },
+  "top_items_overall": [
+    {
+      "platform": "douyin",
+      "content_id": "7518278831205567779",
+      "title": "没有在深夜痛哭过的人不足以谈人生，老板娘的真诚分享#非洲#失眠#焦虑#治愈",
+      "content_url": "https://www.douyin.com/video/7518278831205567779",
+      "author_name": "海南老板娘",
+      "weighted_engagement": 2132.0,
+      "viral_ratio": null,
+      "low_follower_high_viral_level": "C候选",
+      "total_boom_score": 32,
+      "recommended_action": "需要后续补作者粉丝数或用账号主页近10条平均互动判断"
+    },
+    {
+      "platform": "douyin",
+      "content_id": "7551001082147638578",
+      "title": "在平顶山，你会失眠吗？这位女老板失眠十几年，竟把他们带回家 #平顶山 #失眠 #养生 #个人成长 #氧疗",
+      "content_url": "https://www.douyin.com/video/7551001082147638578",
+      "author_name": "最鹰城表哥",
+      "weighted_engagement": 1688.0,
+      "viral_ratio": null,
+      "low_follower_high_viral_level": "C候选",
+      "total_boom_score": 29,
+      "recommended_action": "需要后续补作者粉丝数或用账号主页近10条平均互动判断"
+    },
+    {
+      "platform": "douyin",
+      "content_id": "7167555680444878117",
+      "title": "开工厂的老板，夜里根本睡不着！#制造业 #工厂小老板 #实体厂家 #工厂 #创业",
+      "content_url": "https://www.douyin.com/video/7167555680444878117",
+      "author_name": "道和车间降温 | 官方号",
+      "weighted_engagement": 85369.0,
+      "viral_ratio": null,
+      "low_follower_high_viral_level": "C候选",
+      "total_boom_score": 27,
+      "recommended_action": "需要后续补作者粉丝数或用账号主页近10条平均互动判断"
+    },
+    {
+      "platform": "douyin",
+      "content_id": "7583140958926277888",
+      "title": "这一路走来其中的辛酸和不易只有自己知道，有机会的话我给你讲讲我的来时路#人生感悟 #创业 #女老板 #餐饮创业 #一定要看到最后",
+      "content_url": "https://www.douyin.com/video/7583140958926277888",
+      "author_name": "朱朱做餐饮（鱼火锅）",
+      "weighted_engagement": 3786.0,
+      "viral_ratio": null,
+      "low_follower_high_viral_level": "C候选",
+      "total_boom_score": 27,
+      "recommended_action": "需要后续补作者粉丝数或用账号主页近10条平均互动判断"
+    },
+    {
+      "platform": "douyin",
+      "content_id": "7521336481756613945",
+      "title": "开服装店的老板，晚上根本睡不着#服装行业#服装实体店#女性创业 #服装人 #服装店日常",
+      "content_url": "https://www.douyin.com/video/7521336481756613945",
+      "author_name": "账号搭建师林一（5.11杭州线下课）",
+      "weighted_engagement": 4670.0,
+      "viral_ratio": null,
+      "low_follower_high_viral_level": "C候选",
+      "total_boom_score": 22,
+      "recommended_action": "需要后续补作者粉丝数或用账号主页近10条平均互动判断"
+    }
+  ],
+  "blockers": [],
+  "risks": [],
+  "next_step": ""
+}

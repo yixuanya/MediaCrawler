@@ -1,0 +1,137 @@
+{
+  "pipeline_run_id": "pipeline_20260428_151904_7c57",
+  "keyword": "女老板 失眠",
+  "platforms": [
+    "xhs"
+  ],
+  "started_at": "2026-04-28T15:19:04.980922+08:00",
+  "finished_at": "2026-04-28T15:19:33.893254+08:00",
+  "status": "pass",
+  "platform_results": {
+    "xhs": {
+      "collector_status": "pass",
+      "scorer_status": "pass",
+      "normalized_path": "/Users/admin/MediaCrawler/wenzhi_collectors/output/normalized/xhs_keyword_search_20260428_151905_de1f/xhs_normalized_女老板_失眠_2026-04-28.json",
+      "scored_path": "/Users/admin/MediaCrawler/wenzhi_scorer/output/scored/xhs_keyword_search_20260428_151905_de1f/xhs_scored_女老板_失眠_2026-04-28.json",
+      "items_count": 5,
+      "levels_count": {
+        "S": 0,
+        "A": 0,
+        "B": 0,
+        "C候选": 0,
+        "淘汰": 5
+      },
+      "top_items": [
+        {
+          "platform": "xhs",
+          "content_id": "692e94e2000000001f00b523",
+          "title": "女老板的失眠自救，它让我告别深夜内耗",
+          "content_url": "https://www.xiaohongshu.com/explore/692e94e2000000001f00b523?xsec_token=ABA6HxcPWJEtIboD52z35P8q_DVVafQtDtzeVFRWqsuLY=&xsec_source=pc_search",
+          "author_name": "付奔奔儿",
+          "weighted_engagement": 266.0,
+          "viral_ratio": 0.0379,
+          "low_follower_high_viral_level": "淘汰",
+          "total_boom_score": 15,
+          "recommended_action": ""
+        },
+        {
+          "platform": "xhs",
+          "content_id": "69a03809000000001600b5b8",
+          "title": "创业5年女老板:00员工盯着我看的时候慌了",
+          "content_url": "https://www.xiaohongshu.com/explore/69a03809000000001600b5b8?xsec_token=AB1Lrmrz0yjNJI0LwnH8yviz9gi4ZV4rsrrm7_i0uJzR0=&xsec_source=pc_search",
+          "author_name": "七月二童在成长",
+          "weighted_engagement": 21.5,
+          "viral_ratio": 0.2129,
+          "low_follower_high_viral_level": "淘汰",
+          "total_boom_score": 15,
+          "recommended_action": ""
+        },
+        {
+          "platform": "xhs",
+          "content_id": "68d905720000000007028296",
+          "title": "Ceo们”深夜失眠”的原因",
+          "content_url": "https://www.xiaohongshu.com/explore/68d905720000000007028296?xsec_token=ABiNWAP61LTbgLdMlDJnbpDNkkgWEh7LfV1q20un1Pv0s=&xsec_source=pc_search",
+          "author_name": "刘梦媛",
+          "weighted_engagement": 10.0,
+          "viral_ratio": 0.008,
+          "low_follower_high_viral_level": "淘汰",
+          "total_boom_score": 12,
+          "recommended_action": ""
+        }
+      ]
+    }
+  },
+  "total_items": 5,
+  "total_levels_count": {
+    "S": 0,
+    "A": 0,
+    "B": 0,
+    "C候选": 0,
+    "淘汰": 5
+  },
+  "top_items_overall": [
+    {
+      "platform": "xhs",
+      "content_id": "692e94e2000000001f00b523",
+      "title": "女老板的失眠自救，它让我告别深夜内耗",
+      "content_url": "https://www.xiaohongshu.com/explore/692e94e2000000001f00b523?xsec_token=ABA6HxcPWJEtIboD52z35P8q_DVVafQtDtzeVFRWqsuLY=&xsec_source=pc_search",
+      "author_name": "付奔奔儿",
+      "weighted_engagement": 266.0,
+      "viral_ratio": 0.0379,
+      "low_follower_high_viral_level": "淘汰",
+      "total_boom_score": 15,
+      "recommended_action": ""
+    },
+    {
+      "platform": "xhs",
+      "content_id": "69a03809000000001600b5b8",
+      "title": "创业5年女老板:00员工盯着我看的时候慌了",
+      "content_url": "https://www.xiaohongshu.com/explore/69a03809000000001600b5b8?xsec_token=AB1Lrmrz0yjNJI0LwnH8yviz9gi4ZV4rsrrm7_i0uJzR0=&xsec_source=pc_search",
+      "author_name": "七月二童在成长",
+      "weighted_engagement": 21.5,
+      "viral_ratio": 0.2129,
+      "low_follower_high_viral_level": "淘汰",
+      "total_boom_score": 15,
+      "recommended_action": ""
+    },
+    {
+      "platform": "xhs",
+      "content_id": "68d905720000000007028296",
+      "title": "Ceo们”深夜失眠”的原因",
+      "content_url": "https://www.xiaohongshu.com/explore/68d905720000000007028296?xsec_token=ABiNWAP61LTbgLdMlDJnbpDNkkgWEh7LfV1q20un1Pv0s=&xsec_source=pc_search",
+      "author_name": "刘梦媛",
+      "weighted_engagement": 10.0,
+      "viral_ratio": 0.008,
+      "low_follower_high_viral_level": "淘汰",
+      "total_boom_score": 12,
+      "recommended_action": ""
+    },
+    {
+      "platform": "xhs",
+      "content_id": "67b32299000000002903cd67",
+      "title": "和女老板出差住酒店，她说半夜 睡不着",
+      "content_url": "https://www.xiaohongshu.com/explore/67b32299000000002903cd67?xsec_token=ABBtn2LZJIMe5Si8x8wfg7DeiutCbrhR1CxTvRPG61k1o=&xsec_source=pc_search",
+      "author_name": "小矮豆",
+      "weighted_engagement": 947.0,
+      "viral_ratio": 0.0199,
+      "low_follower_high_viral_level": "淘汰",
+      "total_boom_score": 11,
+      "recommended_action": ""
+    },
+    {
+      "platform": "xhs",
+      "content_id": "694d6729000000001e005071",
+      "title": "03女老板",
+      "content_url": "https://www.xiaohongshu.com/explore/694d6729000000001e005071?xsec_token=ABxQvaefUl1ZU2o-dUp9dKEcZ3P2pXUmyVSUkmQonxefY=&xsec_source=pc_search",
+      "author_name": "Pancc",
+      "weighted_engagement": 93.0,
+      "viral_ratio": 0.0344,
+      "low_follower_high_viral_level": "淘汰",
+      "total_boom_score": 8,
+      "recommended_action": ""
+    }
+  ],
+  "blockers": [],
+  "risks": [],
+  "next_step": ""
+}
